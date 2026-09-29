@@ -42,7 +42,8 @@ public class PlatformControllerAdv : MonoBehaviour
     [SerializeField] Transform wallCheck;
     [SerializeField] LayerMask wallLayer = (1 << 7);
     [SerializeField] private Vector2 wallCheckRadius = new Vector2(0.2f, 1.6f);
-
+    //[SerializeField] private Animator _animator;
+    
     [InspectorLabel("Wall Jumping")]
     bool isWallJumping;
     float wallJumpDir;
@@ -150,6 +151,13 @@ public class PlatformControllerAdv : MonoBehaviour
         if (rb.linearVelocity.y < 0f)
         {
             rb.linearVelocity += Vector2.up * (Physics2D.gravity.y * 1.5f * Time.fixedDeltaTime);
+            if (inputX != 0)
+            {
+                anim.SetBool("isRunning", true);
+            }
+            else{
+                anim.SetBool("isRunning", false);
+            }
         }
     }
     //----- Jumping methods -----\\
