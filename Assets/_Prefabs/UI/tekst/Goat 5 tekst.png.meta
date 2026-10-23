@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 679973246e71b4ad08241f7e6a0f5980
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2523385692097680797
+    second: Goat 5 tekst_0
+  - first:
+      213: -96843633356163401
+    second: Goat 5 tekst_1
+  - first:
+      213: -4587000923408050541
+    second: Goat 5 tekst_2
+  - first:
+      213: 1153743074450930607
+    second: Goat 5 tekst_3
+  - first:
+      213: 1362262717727581403
+    second: Goat 5 tekst_4
+  - first:
+      213: 5889837802306624514
+    second: Goat 5 tekst_5
+  - first:
+      213: -5138349120102455996
+    second: Goat 5 tekst_6
+  - first:
+      213: 8623168077227191060
+    second: Goat 5 tekst_7
+  - first:
+      213: 617216151058704433
+    second: Goat 5 tekst_8
+  - first:
+      213: 2803081680455358134
+    second: Goat 5 tekst_9
+  - first:
+      213: -7687244990092175864
+    second: Goat 5 tekst_10
+  - first:
+      213: -4101432647329353931
+    second: Goat 5 tekst_11
+  - first:
+      213: 5460447294689125429
+    second: Goat 5 tekst_12
+  - first:
+      213: -1613625596995295975
+    second: Goat 5 tekst_13
+  - first:
+      213: 7562373389379355603
+    second: Goat 5 tekst_14
+  - first:
+      213: 5128195461097043631
+    second: Goat 5 tekst_15
+  - first:
+      213: -2149624484130122213
+    second: Goat 5 tekst_16
+  - first:
+      213: -2966884954623363558
+    second: Goat 5 tekst_17
+  - first:
+      213: 3607156801992625097
+    second: Goat 5 tekst_18
+  - first:
+      213: -6391887182780903766
+    second: Goat 5 tekst_19
+  - first:
+      213: -2481332400852047703
+    second: Goat 5 tekst_20
+  - first:
+      213: 8773112571494167217
+    second: Goat 5 tekst_21
+  - first:
+      213: -2511112566541259881
+    second: Goat 5 tekst_22
+  - first:
+      213: 6869129743105764432
+    second: Goat 5 tekst_23
+  - first:
+      213: -1869609921976973480
+    second: Goat 5 tekst_24
+  - first:
+      213: -8451718079200864788
+    second: Goat 5 tekst_25
+  - first:
+      213: -449933661308290869
+    second: Goat 5 tekst_26
+  - first:
+      213: 6884194388232529334
+    second: Goat 5 tekst_27
+  - first:
+      213: -7771260218867667332
+    second: Goat 5 tekst_28
+  - first:
+      213: -8213302700732104059
+    second: Goat 5 tekst_29
+  - first:
+      213: 740694556188420429
+    second: Goat 5 tekst_30
+  - first:
+      213: -6609266068500875235
+    second: Goat 5 tekst_31
+  - first:
+      213: 8950413182705591417
+    second: Goat 5 tekst_32
+  - first:
+      213: -6650889067189629067
+    second: Goat 5 tekst_33
+  - first:
+      213: -6800414991802148483
+    second: Goat 5 tekst_34
+  - first:
+      213: 3769945840609768376
+    second: Goat 5 tekst_35
+  - first:
+      213: -554232177119503553
+    second: Goat 5 tekst_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goat 5 tekst_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 399
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9519c0eaedd40320800000000000000
+      internalID: 2523385692097680797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 245
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b63c038a31f7aef0800000000000000
+      internalID: -96843633356163401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 245
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396dfdf86f2b750c0800000000000000
+      internalID: -4587000923408050541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 261
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabf6b2a63be20010800000000000000
+      internalID: 1153743074450930607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_4
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd429e469bab7e210800000000000000
+      internalID: 1362262717727581403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 243
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c57278648ecb150800000000000000
+      internalID: 5889837802306624514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 245
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4452a5c03bae0b8b0800000000000000
+      internalID: -5138349120102455996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b6d91cda5aba770800000000000000
+      internalID: 8623168077227191060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 245
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138ec79b1dac09800800000000000000
+      internalID: 617216151058704433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 245
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b652ffdfeb86e620800000000000000
+      internalID: 2803081680455358134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 261
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8069728096b615590800000000000000
+      internalID: -7687244990092175864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 245
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6eb1dcb8c417c0800000000000000
+      internalID: -4101432647329353931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 245
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53420b242e767cb40800000000000000
+      internalID: 5460447294689125429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 243
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9152e92a1104b99e0800000000000000
+      internalID: -1613625596995295975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3c2dcc782f2f860800000000000000
+      internalID: 7562373389379355603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_15
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 206
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6b57df9920b2740800000000000000
+      internalID: 5128195461097043631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1611febbeffa22e0800000000000000
+      internalID: -2149624484130122213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16393e5ad183d6d0800000000000000
+      internalID: -2966884954623363558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 208
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb87e7fff13f0230800000000000000
+      internalID: 3607156801992625097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaec8f119747b47a0800000000000000
+      internalID: -6391887182780903766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_20
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8eb8df359809dd0800000000000000
+      internalID: -2481332400852047703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27c6ed66b50c970800000000000000
+      internalID: 8773112571494167217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be948dc6cb62dd0800000000000000
+      internalID: -2511112566541259881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca3ed6b1d045f50800000000000000
+      internalID: 6869129743105764432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 208
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857440c7eafcd06e0800000000000000
+      internalID: -1869609921976973480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55c73af2775ba80800000000000000
+      internalID: -8451718079200864788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_26
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc87a3908b381c9f0800000000000000
+      internalID: -449933661308290869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 208
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b566537252998f50800000000000000
+      internalID: 6884194388232529334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ea44d3100f62490800000000000000
+      internalID: -7771260218867667332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_29
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 171
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5824b1aa5bc740e80800000000000000
+      internalID: -8213302700732104059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 171
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d492da446c9774a00800000000000000
+      internalID: 740694556188420429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_31
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 171
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1876f0378b2744a0800000000000000
+      internalID: -6609266068500875235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 171
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974e32c4e51463c70800000000000000
+      internalID: 8950413182705591417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 171
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f02ad91ab43b3a0800000000000000
+      internalID: -6650889067189629067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 171
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d795468589210a1a0800000000000000
+      internalID: -6800414991802148483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 171
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3b10c94c9815430800000000000000
+      internalID: 3769945840609768376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat 5 tekst_36
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 171
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b53b775c8fe48f0800000000000000
+      internalID: -554232177119503553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 678ab14d40a2f4f2fab692b819a3259b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goat 5 tekst_0: 2523385692097680797
+      Goat 5 tekst_1: -96843633356163401
+      Goat 5 tekst_10: -7687244990092175864
+      Goat 5 tekst_11: -4101432647329353931
+      Goat 5 tekst_12: 5460447294689125429
+      Goat 5 tekst_13: -1613625596995295975
+      Goat 5 tekst_14: 7562373389379355603
+      Goat 5 tekst_15: 5128195461097043631
+      Goat 5 tekst_16: -2149624484130122213
+      Goat 5 tekst_17: -2966884954623363558
+      Goat 5 tekst_18: 3607156801992625097
+      Goat 5 tekst_19: -6391887182780903766
+      Goat 5 tekst_2: -4587000923408050541
+      Goat 5 tekst_20: -2481332400852047703
+      Goat 5 tekst_21: 8773112571494167217
+      Goat 5 tekst_22: -2511112566541259881
+      Goat 5 tekst_23: 6869129743105764432
+      Goat 5 tekst_24: -1869609921976973480
+      Goat 5 tekst_25: -8451718079200864788
+      Goat 5 tekst_26: -449933661308290869
+      Goat 5 tekst_27: 6884194388232529334
+      Goat 5 tekst_28: -7771260218867667332
+      Goat 5 tekst_29: -8213302700732104059
+      Goat 5 tekst_3: 1153743074450930607
+      Goat 5 tekst_30: 740694556188420429
+      Goat 5 tekst_31: -6609266068500875235
+      Goat 5 tekst_32: 8950413182705591417
+      Goat 5 tekst_33: -6650889067189629067
+      Goat 5 tekst_34: -6800414991802148483
+      Goat 5 tekst_35: 3769945840609768376
+      Goat 5 tekst_36: -554232177119503553
+      Goat 5 tekst_4: 1362262717727581403
+      Goat 5 tekst_5: 5889837802306624514
+      Goat 5 tekst_6: -5138349120102455996
+      Goat 5 tekst_7: 8623168077227191060
+      Goat 5 tekst_8: 617216151058704433
+      Goat 5 tekst_9: 2803081680455358134
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

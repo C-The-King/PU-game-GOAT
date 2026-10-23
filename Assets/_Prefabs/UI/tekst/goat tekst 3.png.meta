@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 5aa9fcbf1e6e34aa093ca0f883037444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3477729984913854486
+    second: goat tekst 3_0
+  - first:
+      213: 816828356442867151
+    second: goat tekst 3_1
+  - first:
+      213: 7988296078540817182
+    second: goat tekst 3_2
+  - first:
+      213: -1794632575121105939
+    second: goat tekst 3_3
+  - first:
+      213: -6984817924184981557
+    second: goat tekst 3_4
+  - first:
+      213: 8060525918845008568
+    second: goat tekst 3_5
+  - first:
+      213: -5257291847512363844
+    second: goat tekst 3_6
+  - first:
+      213: -4779792853455126035
+    second: goat tekst 3_7
+  - first:
+      213: -6000072567353457606
+    second: goat tekst 3_8
+  - first:
+      213: 6549366643576552196
+    second: goat tekst 3_9
+  - first:
+      213: 9219117605196355469
+    second: goat tekst 3_10
+  - first:
+      213: -2539415942954246337
+    second: goat tekst 3_11
+  - first:
+      213: -7700193609938972863
+    second: goat tekst 3_12
+  - first:
+      213: 5751424172314539402
+    second: goat tekst 3_13
+  - first:
+      213: -6858428926814682803
+    second: goat tekst 3_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goat tekst 3_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 186
+        width: 381
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d387def0634030800000000000000
+      internalID: 3477729984913854486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc54e3cff05f55b00800000000000000
+      internalID: 816828356442867151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13421aa5f02cde60800000000000000
+      internalID: 7988296078540817182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debdf896e2f2817e0800000000000000
+      internalID: -1794632575121105939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 237
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3c28ea11f01f90800000000000000
+      internalID: -6984817924184981557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 240
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baf59fdd9dbcdf60800000000000000
+      internalID: 8060525918845008568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce7744be85a07b0800000000000000
+      internalID: -5257291847512363844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_7
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14bd569b3caadb0800000000000000
+      internalID: -4779792853455126035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 240
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34c45c2ac57bbca0800000000000000
+      internalID: -6000072567353457606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 240
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3c26234604ea50800000000000000
+      internalID: 6549366643576552196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 200
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875740fd92e0ff70800000000000000
+      internalID: 9219117605196355469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9f3f77ae22ccd0800000000000000
+      internalID: -2539415942954246337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fcad985ba632590800000000000000
+      internalID: -7700193609938972863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 203
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853767ffc921df40800000000000000
+      internalID: 5751424172314539402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goat tekst 3_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 200
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4182f38a37f1d0a0800000000000000
+      internalID: -6858428926814682803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6cc67da64280a484eb43657e507b6f7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      goat tekst 3_0: 3477729984913854486
+      goat tekst 3_1: 816828356442867151
+      goat tekst 3_10: 9219117605196355469
+      goat tekst 3_11: -2539415942954246337
+      goat tekst 3_12: -7700193609938972863
+      goat tekst 3_13: 5751424172314539402
+      goat tekst 3_14: -6858428926814682803
+      goat tekst 3_2: 7988296078540817182
+      goat tekst 3_3: -1794632575121105939
+      goat tekst 3_4: -6984817924184981557
+      goat tekst 3_5: 8060525918845008568
+      goat tekst 3_6: -5257291847512363844
+      goat tekst 3_7: -4779792853455126035
+      goat tekst 3_8: -6000072567353457606
+      goat tekst 3_9: 6549366643576552196
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
