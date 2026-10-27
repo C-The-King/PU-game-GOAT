@@ -1579,6 +1579,7 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
+<<<<<<< Updated upstream
 --- !u!1 &3754850564154455764
 GameObject:
   m_ObjectHideFlags: 0
@@ -1671,6 +1672,9 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
 --- !u!114 &4231328585779975185
+=======
+--- !u!114 &4422675202180559345
+>>>>>>> Stashed changes
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
