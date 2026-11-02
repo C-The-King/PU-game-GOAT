@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 1c619241957b5498d9769f01e14e98a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8237442863035574241
+    second: Nyt Projekt_0
+  - first:
+      213: -3167198796798008311
+    second: Nyt Projekt_1
+  - first:
+      213: 7420041502667097413
+    second: Nyt Projekt_2
+  - first:
+      213: 3217712819198854118
+    second: Nyt Projekt_3
+  - first:
+      213: 8169588965504181862
+    second: Nyt Projekt_4
+  - first:
+      213: 6564973998177645915
+    second: Nyt Projekt_5
+  - first:
+      213: -4800037089488056437
+    second: Nyt Projekt_6
+  - first:
+      213: 1665190611848224448
+    second: Nyt Projekt_7
+  - first:
+      213: 8156611596497929400
+    second: Nyt Projekt_8
+  - first:
+      213: -8904575122732569416
+    second: Nyt Projekt_9
+  - first:
+      213: 2065136468065362373
+    second: Nyt Projekt_10
+  - first:
+      213: -5545928503377247541
+    second: Nyt Projekt_11
+  - first:
+      213: -841970443329399611
+    second: Nyt Projekt_12
+  - first:
+      213: 4027890482484629361
+    second: Nyt Projekt_13
+  - first:
+      213: -4159096923922600295
+    second: Nyt Projekt_14
+  - first:
+      213: -8133107639649748985
+    second: Nyt Projekt_15
+  - first:
+      213: -7746735687126580859
+    second: Nyt Projekt_16
+  - first:
+      213: -6678056306428085755
+    second: Nyt Projekt_17
+  - first:
+      213: 5273610736838524016
+    second: Nyt Projekt_18
+  - first:
+      213: -1703791472151379989
+    second: Nyt Projekt_19
+  - first:
+      213: 5701991208913457312
+    second: Nyt Projekt_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nyt Projekt_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 465
+        width: 374
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7efccd3a6415270800000000000000
+      internalID: 8237442863035574241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9046fcf8979db04d0800000000000000
+      internalID: -3167198796798008311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545c0210f6849f660800000000000000
+      internalID: 7420041502667097413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38199c2cc97ac20800000000000000
+      internalID: 3217712819198854118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666e3d931e5306170800000000000000
+      internalID: 8169588965504181862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55fd0191197b1b50800000000000000
+      internalID: 6564973998177645915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 558
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f4d54e2b7d26db0800000000000000
+      internalID: -4800037089488056437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_7
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 558
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce5786f902fb1710800000000000000
+      internalID: 1665190611848224448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 558
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4471c080b123170800000000000000
+      internalID: 8156611596497929400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_9
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 558
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcaeb5ba189c6480800000000000000
+      internalID: -8904575122732569416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 506
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1adb71da6d8ac10800000000000000
+      internalID: 2065136468065362373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 506
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc24c76e867e803b0800000000000000
+      internalID: -5545928503377247541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 527
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c419fdb758b054f0800000000000000
+      internalID: -841970443329399611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 506
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4caa9d01f5e730800000000000000
+      internalID: 4027890482484629361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 506
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e6c2f226be746c0800000000000000
+      internalID: -4159096923922600295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 506
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70839aa51b5612f80800000000000000
+      internalID: -8133107639649748985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 503
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5818affbfe01e7490800000000000000
+      internalID: -7746735687126580859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 506
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50afb41db27c253a0800000000000000
+      internalID: -6678056306428085755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 506
+        width: 35
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c32fc3601af2940800000000000000
+      internalID: 5273610736838524016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_19
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 503
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befb313eeaaea58e0800000000000000
+      internalID: -1703791472151379989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nyt Projekt_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 506
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0dfa74bca812f40800000000000000
+      internalID: 5701991208913457312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d9d5ad04aa499446aa700cf86d6ea745
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nyt Projekt_0: 8237442863035574241
+      Nyt Projekt_1: -3167198796798008311
+      Nyt Projekt_10: 2065136468065362373
+      Nyt Projekt_11: -5545928503377247541
+      Nyt Projekt_12: -841970443329399611
+      Nyt Projekt_13: 4027890482484629361
+      Nyt Projekt_14: -4159096923922600295
+      Nyt Projekt_15: -8133107639649748985
+      Nyt Projekt_16: -7746735687126580859
+      Nyt Projekt_17: -6678056306428085755
+      Nyt Projekt_18: 5273610736838524016
+      Nyt Projekt_19: -1703791472151379989
+      Nyt Projekt_2: 7420041502667097413
+      Nyt Projekt_20: 5701991208913457312
+      Nyt Projekt_3: 3217712819198854118
+      Nyt Projekt_4: 8169588965504181862
+      Nyt Projekt_5: 6564973998177645915
+      Nyt Projekt_6: -4800037089488056437
+      Nyt Projekt_7: 1665190611848224448
+      Nyt Projekt_8: 8156611596497929400
+      Nyt Projekt_9: -8904575122732569416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
